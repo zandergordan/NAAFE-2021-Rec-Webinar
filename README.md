@@ -8,7 +8,7 @@ This webinar will focus on efforts to develop and test management approaches tha
 
 Format: The webinar will open with very brief welcoming remarks followed by an overview presentation by Josh Abbott. Subsequent presentations will be 15 minutes, followed by 5 minutes of questions. The webinar will conclude with a 30 minute panel discussion, including questions from the webinar participants.
 
-|      Welcome     |   Timing  | Zander Gordan, David Carter and/or Doug Lipton                                                                               |
+|      Welcome     |   Timing  | David Carter                                                                             |
 |:----------------:|:---------:|------------------------------------------------------------------------------------------------------------------------------|
 |   Presentations  |  0-0:0:10 | Joshua Abbott - [Overview](https://zandergordan.com/wp-content/uploads/2021/04/Abbott-NAAFE2021_webinar_intro.pdf)                                                                                                     |
 |                  | 0:10-0:30 | Jorge Holzer - [Using Research Set Aside Market Design to inform Fisheries Management.](https://zandergordan.com/wp-content/uploads/2021/04/NAAFE2021_Webinar_HolzerDePiper.pdf)                                        |
